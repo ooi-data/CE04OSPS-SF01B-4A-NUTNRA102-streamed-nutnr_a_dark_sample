@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-4A-NUTNRA102-streamed-nutnr_a_dark_sample
 data_stream: CE04OSPS-SF01B-4A-NUTNRA102-streamed-nutnr_a_dark_sample
 end_date: '2021-12-03T21:50:56.877Z'
-last_updated: '2021-12-04T03:58:49.164335Z'
+last_updated: '2021-12-04T04:06:28.658107'
 start_date: '2015-08-03T15:19:11.127Z'
-status: pending
+status: success
